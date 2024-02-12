@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.game{
+    margin : 0 auto;
+    padding-top : 90px;
+    border : 1px solid white;
+    width : 350px;
+    height : 350px;
+    color:white;
+    text-align: center;
+    margin-top :80px;
+}
+::selection {
+    background-color: yellow;
+    color: black;
+}
+
+#result-area{
+    margin-top :30px;
+}
+
+#chance-area{
+    margin-top :10px;
+}
+
+#userinput{
+    margin-top :30px;
+}
+
+#playbutton{
+    border: 1px solid white;
+    color:white;
+    background-color: black;
+    
+}
+#playbutton:hover{
+    background-color: white;
+    color: black;
+}
+
+#reset-button{
+    border: 1px solid white;
+    color:white;
+    background-color: black;
+}
+
+#reset-button:hover{
+    background-color: white;
+    color: black;
+}
